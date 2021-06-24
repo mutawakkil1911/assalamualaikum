@@ -1,5 +1,5 @@
 package assalamualaikum
 
-func Assalamualaikum() string {
-	return "Assalamualaikum, Alfi Nurindiana"
+func Assalamualaikum(nama string) string {
+	return "Assalamualaikum" + nama
 }
